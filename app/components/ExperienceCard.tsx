@@ -54,7 +54,7 @@ const ExperienceCard = ({
         transition={{ duration: 1 }}
         whileInView={{ opacity: 1, y: 0 }}
         viewport={{ once: true }}
-        className="h-[6rem] w-[6rem] rounded-full object-cover object-center xl:h-[200px] xl:w-[200px]"
+        className="h-[6rem] w-[6rem] rounded-full object-cover object-center xl:h-[9rem] xl:w-[9rem]"
         src={companyImages}
         alt=""
       />
@@ -77,12 +77,14 @@ const ExperienceCard = ({
         <p className="py-5 uppercase text-gray-300">
           {dateIn} - {dateEnded} {currentlyWork}
         </p>
-        <ul className="ml-5 max-h-96 list-disc space-y-4 text-lg">
+        <div className="h-[8rem] overflow-y-scroll scrollbar-thin pr-4">
+        <ul className="ml-5 list-disc space-y-4 text-lg">
           <li>{summary1}</li>
           <li>{summary2}</li>
           <li>{summary3}</li>
           <li>{summary4}</li>
         </ul>
+        </div>
       </div>
     </motion.article>
   );

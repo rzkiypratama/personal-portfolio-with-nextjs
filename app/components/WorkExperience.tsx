@@ -19,7 +19,7 @@ const WorkExperience: React.FC = () =>  {
         Experience
       </h3>
 
-      <div className="flex w-[24rem] snap-x snap-mandatory space-x-5 overflow-x-scroll p-10 scrollbar-thin scrollbar-track-gray-400/20 scrollbar-thumb-[#F7AB0A]/80 md:w-full">
+      <div className="flex w-[24rem] snap-x snap-mandatory space-x-5 overflow-x-scroll p-10 scrollbar-thin scrollbar-track-gray-400/20 scrollbar-thumb-[#F7AB0A]/80 md:w-full md:h-auto">
         <ExperienceCard
           companyImages="https://i.ibb.co/4fhXmwh/orion.jpg"
           role="Software Developer"
