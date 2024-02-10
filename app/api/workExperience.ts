@@ -9,7 +9,7 @@ export const workExperienceData = [
         "https://i.ibb.co/72WMfHp/Typescript-logo-2020-svg.png",
         "https://www.pngrepo.com/png/354119/512/nodejs-icon.png",
       ],
-      dateIn: "02 June 2023",
+      dateIn: "DES 2022",
       dateEnded: "",
       currentlyWork: "Present",
       summary: [
@@ -30,7 +30,7 @@ export const workExperienceData = [
         "https://www.svgrepo.com/download/12244/wordpress-logo.svg",
         "https://i.ibb.co/72WMfHp/Typescript-logo-2020-svg.png",
       ],
-      dateIn: "25 Des 2022",
+      dateIn: "Des 2022",
       dateEnded: "",
       currentlyWork: "Present",
       summary: [
@@ -49,8 +49,8 @@ export const workExperienceData = [
         "https://i.ibb.co/72WMfHp/Typescript-logo-2020-svg.png",
         "https://www.pngrepo.com/png/354119/512/nodejs-icon.png",
       ],
-      dateIn: "18 January 2022",
-      dateEnded: "30 April 2023",
+      dateIn: "Aug 2022",
+      dateEnded: "Nov 2022",
       currentlyWork: "",
       summary: [
         "Improve company website.",
