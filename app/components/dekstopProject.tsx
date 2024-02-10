@@ -4,7 +4,7 @@ export const caseStudies = [
     title: "Waebajo",
     link: "https://www.waebajo.id",
     description:
-      "Embark on an unforgettable journey to Labuan Bajo with our Travel Website. Seamlessly order and schedule your trip with our user-friendly interface. Powered by Next.js, TypeScript, and Tailwind for a sleek frontend experience, and Strapi for a robust backend.",
+      "Embark on an unforgettable journey to Labuan Bajo with our Travel Website. Seamlessly order and schedule your trip with our user-friendly interface. Powered by Next.js, TypeScript, and Tailwind for a sleek frontend experience, and Postgresql - ExpressJs for a robust backend.",
   },
   {
     image: "https://i.ibb.co/KhPHXZQ/bfl.png",
