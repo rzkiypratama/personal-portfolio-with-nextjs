@@ -14,7 +14,7 @@ export const caseStudies = [
       "BFL-center.com is a website developed using a low-code environment within the WordPress platform. The site features a blend of customized design elements through CSS, offering a unique and visually appealing user experience. It serves as the digital presence for the BFL Psychology Center, a part of the renowned Lippo Group Company, providing valuable insights and information related to their psychological services and expertise.",
   },
   {
-    image: "https://i.ibb.co/Tmk6Dvq/pt-ana.png",
+    image: "https://i.ibb.co/w0hm11c/pt-ana.webp",
     title: "PT. Andalan Nusantara Adyatama",
     link: "https://ana.co.id/",
     description:
